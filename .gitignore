@@ -1,0 +1,23 @@
+# IDE / editor
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node / build (ako ikad bude)
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+.env
