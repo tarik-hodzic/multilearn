@@ -1,4 +1,4 @@
-<h1>MultiLearn – Tutor Finder Platform (Frontend)</h1>
+<h1>MultiLearn – Tutor Finder Platform</h1>
 
 MultiLearn is a responsive website created to present a mobile and web application designed to help students and pupils find suitable tutors.  
 The website serves as a promotional and presentation platform, focusing on user experience, clean design, and smooth animations.
