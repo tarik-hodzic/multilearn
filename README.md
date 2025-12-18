@@ -20,7 +20,7 @@ https://bit.ly/multi-learn
 This project was built to:
 
 - Present the MultiLearn tutor-finding application  
-- Practice responsive web design and modern UI principles  
+- Apply responsive and modern front-end design principles  
 - Improve front-end development skills using HTML, CSS, JavaScript, and Bootstrap  
 - Implement animations and interactive elements  
 
